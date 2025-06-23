@@ -45,10 +45,10 @@ LanguageCode = "zh-CN"
 
 [params]
   defaultTheme = "auto"  # 网站默认主题 ("light", "dark", "auto")
-  gitRepo = "https://github.com/cv2wx/my-blog"
+  gitRepo = "https://github.com/chingjyu/my-blog"
   dateFormat = "2006-01-02"
   images = ["/images/logo.jpg"]
-  description = "The heart beating for freedom will never stop.<br>This blog is used to record my study, thinking and life."
+  description = "This blog is used to record my study, thinking and life."
   keywords = ["清羽", "思考"]
   author = "清羽Victor"
   webmanifest = "/site.webmanifest"
@@ -87,11 +87,11 @@ LanguageCode = "zh-CN"
       avatarURL = "assets/images/logo.jpg"
       altLogoURL = "https://chingjyu.cyou/images/logo.jpg"
       title = "清音为羽"
-      subtitle = "The heart beating for freedom will never stop."
+      subtitle = "在注定的远方那里，我们失去了自我和北极星的影子。"
     [params.home.posts]
       paginate = 8
   [params.social]
-    GitHub = "cv2wx"
+    GitHub = "chingjyu"
     Twitter = "chingjyu_chan"
     Mastodon = "https://mastodon.social/@chingjyu_chan"
     YoutubeChannel = "UCjdnCUI5PRcutl0uEawe0tQ"
@@ -171,7 +171,7 @@ LanguageCode = "zh-CN"
       enable = true
       [params.comment.giscus]
         enable = true
-        repo = "cv2wx/my-blog"
+        repo = "chingjyu/my-blog"
         repoId = "R_kgDONw0jjA"
         category = "Show and tell"
         categoryId = "DIC_kwDONw0jjM4Cmahn"

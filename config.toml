@@ -31,15 +31,9 @@ LanguageCode = "zh-CN"
     url = "/about/"
     weight = 10
   [[menu.main]]
-    identifier = "rss"
-    pre = "<i class='icon-rss'></i>"
-    url = "/rss.xml"
-    title = "RSS"
-    weight = 18
-  [[menu.main]]
     identifier = "github"
     pre = "<i class='icon-github'></i>"
-    url = "https://github.com/cv2wx"
+    url = "https://github.com/chingjyu"
     title = "GitHub"
     weight = 20
 
